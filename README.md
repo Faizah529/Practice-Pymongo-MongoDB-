@@ -1,4 +1,4 @@
-# Practice Pymongo (MongoDB)
+# Practice Case Pymongo (MongoDB)
 
 In this repository, it contains how to create a new collection  using projection and validation of the collection:
 
