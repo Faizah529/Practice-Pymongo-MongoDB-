@@ -20,5 +20,5 @@ In this repository, it contains how to create a new collection  using projection
 3. Get client of this cluster.
 4. Get database of client.
 5. Get collection of database.
-6. After getting collection of database than you can follow the steps in Python jupytor notebook.
+6. After getting collection of database than you can follow the steps in Python jupyter notebook.
 
